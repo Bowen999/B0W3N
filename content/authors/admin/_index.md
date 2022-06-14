@@ -21,6 +21,7 @@ interests:
   - Bioinformatics Software Development
   - Metabolomics
   - Liquid Chromatography–Mass Spectrometry
+# Education
 Education:
   - Bioinformatics Software Development
   - Metabolomics
