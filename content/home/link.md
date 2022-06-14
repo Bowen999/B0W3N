@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: contact
+title: Links
 subtitle: 
 
 design:
