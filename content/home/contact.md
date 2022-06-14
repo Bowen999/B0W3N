@@ -6,7 +6,7 @@ widget: contact
 headless: True
 
 # Order that this section appears on the page.
-weight: 130
+weight: 80
 
 title: 4.Contact
 subtitle: 
@@ -28,6 +28,6 @@ content:
   email: by172@georgetown.edu
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 If you have any question please contact me.
