@@ -44,5 +44,3 @@ highlight_name: true
 I am currently working on bioinformatics, including bioinformatics software development, metabolomics, mass spectrometry, and substance identification. I'm also interested in other filed where using computers helps humans to understand health and diseases better. 
 
 我目前从事生物信息学方面的工作，包括生物信息学软件开发、代谢组学、质谱和物质鉴定。 我也对其他使用计算机帮助人类更好地了解健康和疾病的领域感兴趣。
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
