@@ -8,7 +8,7 @@ headless: True
 # Order that this section appears on the page.
 weight: 130
 
-title: Projects
+title: 1.Projects
 subtitle: 
 
 design:
