@@ -6,7 +6,7 @@ widget: contact
 headless: True
 
 # Order that this section appears on the page.
-weight: 130
+weight: 70
 
 title: 2.Skills
 subtitle: 
