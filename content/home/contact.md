@@ -1,6 +1,6 @@
 ---
 # An instance of the Contact widget.
-widget: 222
+widget: contact
 
 # This file represents a page section.
 headless: true
@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: 2222
 subtitle: If you have any question please contact me.
 
 content:
