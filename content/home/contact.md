@@ -3,12 +3,12 @@
 widget: contact
 
 # This file represents a page section.
-headless: true
+headless: Fault
 
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: Zontact
 subtitle: 
 
 content:
