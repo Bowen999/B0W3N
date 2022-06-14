@@ -1,15 +1,18 @@
 ---
-title: Introduction to Metabolomics（代谢组学简介）
-subtitle:
+title: Welcome to Wowchemy, the website builder for Hugo
+subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
-summary:
+summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+
+# Link this post with a project
+projects: []
 
 # Date published
-date: '2022-07-14T00:00:00Z'
+date: '2020-12-13T00:00:00Z'
 
 # Date updated
-lastmod: '2022-07-14T00:00:00Z'
+lastmod: '2020-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -24,17 +27,6 @@ image:
   focal_point: ''
   placement: 2
   preview_only: false
-
-authors:
-  - admin
-
-tags:
-  - Bioinformatics
-  - Software
-  - Metabolomics
-categories:
-  - Review
-
 ---
 ## 简介
 ## 全功能软件
