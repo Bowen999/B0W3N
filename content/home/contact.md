@@ -12,6 +12,7 @@ title: Contact
 subtitle:
 
 content:
+If you have any question please contact me.
   # Automatically link email and phone or display as text?
   autolink: true
 
