@@ -9,7 +9,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:If you have any question please contact me.
+subtitle: If you have any question please contact me.
 
 content:
   # Automatically link email and phone or display as text?
