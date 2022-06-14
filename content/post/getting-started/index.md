@@ -20,7 +20,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**]()'
+  caption: 'Image credit: [**Unsplash**](https://github.com/Bowen999/B0W3N/blob/main/content/post/getting-started/featured.jpg)'
   focal_point: ''
   placement: 2
   preview_only: false
