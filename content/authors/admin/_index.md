@@ -16,12 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include bioinformatics software development, metabolomics, mass spectrometry.
 
-# Interests to show in About widget
-interests:
-  - Bioinformatics Software Development
-  - Metabolomics
-  - Liquid Chromatography–Mass Spectrometry
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -40,9 +34,14 @@ email: 'by172@georgetwon.edu'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am currently working on bioinformatics, including bioinformatics software development, metabolomics, mass spectrometry, and substance identification. I'm also interested in other filed where using computers helps humans to understand health and diseases better. 
-
-我目前从事生物信息学方面的研究，包括生物信息学软件开发、代谢组学、质谱和物质鉴定。 我也对其他使用计算机帮助人类更好地了解健康和疾病的领域感兴趣。
-
 #### 这个网站现在还是demo，很多信息不完善
+I am currently working on bioinformatics, including bioinformatics software development, metabolomics, mass spectrometry, and substance identification. I'm also interested in other filed where using computers helps humans to understand health and diseases better.  
+
+#### interests:
+  - Bioinformatics Software Development
+  - Metabolomics
+  - Liquid Chromatography–Mass Spectrometry  
+
+我目前从事生物信息学方面的研究，包括生物信息学软件开发、代谢组学、质谱和物质鉴定。 我也对其他生物医药与计算交叉的领域感兴趣，希望可以为了人类健康事业贡献自己的力量。
+
+
