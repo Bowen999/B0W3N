@@ -26,7 +26,7 @@ main:
     url: '#links'
     weight: 30
   - name: Contact
-    url: '#c3ntact'
+    url: '#contact'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
