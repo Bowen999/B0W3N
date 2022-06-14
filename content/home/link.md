@@ -1,21 +1,17 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+# An instance of the Contact widget.
+widget: contact
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 130
 
-title: Links
-subtitle:
-
-content:
+title: contact
+subtitle: 
 
 design:
-  # Choose a view for the listings:
-  view: compact
   columns: '2'
-[If you have any question please contact me.](http://blog.xiewenlong.com/2018/09/comments-in-markdown/)
+---
+If you have any question please contact me.
