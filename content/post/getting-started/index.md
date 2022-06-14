@@ -3,7 +3,7 @@ title: Introduction to Metabolomics（代谢组学简介）
 subtitle:
 
 # Summary for listings and search engines
-summary: 对于代谢组研究的简介（Written by Chinese）
+summary: 对于代谢组研究的简单介绍（Written by Chinese）
 
 # Date published
 date: '2020-12-13T00:00:00Z'
