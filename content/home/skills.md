@@ -8,7 +8,7 @@ headless: True
 # Order that this section appears on the page.
 weight: 130
 
-title: Skills
+title: 2.Skills
 subtitle: 
 
 design:
