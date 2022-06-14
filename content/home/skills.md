@@ -8,7 +8,7 @@ headless: True
 # Order that this section appears on the page.
 weight: 70
 
-title: 2.Skills
+title: Skills
 subtitle: 
 
 design:
@@ -16,12 +16,10 @@ design:
 ---
 #### Programing Language
 Python, R
-#### Database develop
-MySQL, NoSQL
-#### Front end 
-HTML, CSS, JavaScript
-#### Linux
-Ubuntu, CentOS
-#### Machine Learning
-#### Biology
-Familiar with common biological information databases and software
+#### NGS and System Biology
+Differential Expression Analysis, Enrichment Analysis, Interaction Network
+#### Others 
+Basic front-end(HTML, CSS, JavaScript)  
+Basic Database (MySQL, NoSQL)  
+Exprence with Linux (Ubuntu, CentOS)  
+Machine Learning
