@@ -19,6 +19,6 @@ design:
 [生物信息学最佳实践@曾健明 ](http://www.biotrainee.com/jmzeng/book/basic/)
 [python web开发 ](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web)
 ## 2.Others
-This is a website [If you have any question please contact me.](https://www.apple.com).
-jdlksjadklja
+This is a website [If you have any question please contact me.](https://www.apple.com).  
+jdlksjadklja  
 hdlksahdlahs
