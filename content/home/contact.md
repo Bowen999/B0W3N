@@ -3,12 +3,12 @@
 widget: contact
 
 # This file represents a page section.
-headless: Fault
+headless: True
 
 # Order that this section appears on the page.
 weight: 130
 
-title: Zontact
+title: 4.Contact
 subtitle: 
 
 content:
@@ -28,6 +28,6 @@ content:
   email: by172@georgetown.edu
 
 design:
-  columns: '2'
+  columns: '1'
 ---
 If you have any question please contact me.
