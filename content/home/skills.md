@@ -1,6 +1,6 @@
 ---
 # An instance of the Contact widget.
-widget: featurette
+widget: content
 
 # This file represents a page section.
 headless: True
