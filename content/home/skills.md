@@ -14,14 +14,14 @@ subtitle:
 design:
   columns: '2'
 ---
-### Programing Language
+#### Programing Language
 Python, R
-### Database develop
+#### Database develop
 MySQL, NoSQL
-### Front end 
+#### Front end 
 HTML, CSS, JavaScript
-### Linux
+#### Linux
 Ubuntu, CentOS
-### Machine Learning
-### Biology
+#### Machine Learning
+#### Biology
 Familiar with common biological information databases and software
