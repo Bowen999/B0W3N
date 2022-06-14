@@ -1,6 +1,6 @@
 ---
 # An instance of the Contact widget.
-widget: about
+widget: portfolio
 
 # This file represents a page section.
 headless: True
