@@ -21,11 +21,6 @@ interests:
   - Bioinformatics Software Development
   - Metabolomics
   - Liquid Chromatography–Mass Spectrometry
-# Education
-Education:
-  - Bioinformatics Software Development
-  - Metabolomics
-  - Liquid Chromatography–Mass Spectrometry
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
