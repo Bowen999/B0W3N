@@ -1,6 +1,6 @@
 ---
 # An instance of the Contact widget.
-widget: 联系方式
+widget: contact
 
 # This file represents a page section.
 headless: true
@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: 联系方式
+title: contact
 subtitle: If you have any question please contact me.
 
 content:
