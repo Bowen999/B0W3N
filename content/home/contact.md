@@ -9,7 +9,7 @@ headless: true
 weight: 130
 
 title: contact
-subtitle: If you have any question please contact me.
+subtitle: 
 
 content:
   # Automatically link email and phone or display as text?
@@ -30,3 +30,4 @@ content:
 design:
   columns: '2'
 ---
+If you have any question please contact me.
