@@ -17,7 +17,7 @@ design:
 ### Tutorials
 [The Biostar Handbook ](https://www.biostarhandbook.com)  
 [生物信息学最佳实践@曾健明 ](http://www.biotrainee.com/jmzeng/book/basic/)  
-[python web开发 ](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web)
+[python web开发 ](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web)  
 [Tkinter GUI@莫烦](https://mofanpy.com/tutorials/python-basic/tkinter/why/)  
 
 ### Tools
