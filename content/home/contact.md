@@ -25,7 +25,6 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  If you have any question please contact me.
   email: by172@georgetown.edu
 
 design:
