@@ -35,7 +35,7 @@ social:
     link: https://github.com/Bowen999
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'by172@georgetwon.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
