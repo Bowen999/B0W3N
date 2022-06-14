@@ -9,10 +9,9 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle:If you have any question please contact me.
 
 content:
-If you have any question please contact me.
   # Automatically link email and phone or display as text?
   autolink: true
 
@@ -26,6 +25,7 @@ If you have any question please contact me.
   #    captcha: false
 
   # Contact details (edit or remove options as required)
+  If you have any question please contact me.
   email: by172@georgetown.edu
 
 design:
