@@ -34,7 +34,6 @@ email: 'by172@georgetwon.edu'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-#### 这个网站现在还是demo，很多信息不完善
 I am currently working on bioinformatics, including bioinformatics software development, metabolomics, mass spectrometry, and substance identification. I'm also interested in other filed where using computers to helps humans to understand health and diseases better.  
 I like to create, I am an amateur rapper, I write and published my songs to music platforms. I also practice Chinese calligraphy and play scoccer in my free time.  
 
