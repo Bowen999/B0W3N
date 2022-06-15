@@ -24,24 +24,18 @@ design:
 Navigation:
 [bio.tools](https://bio.tools),
 [生物医学导航](https://wang-lin-boop.github.io/Biodb-Search/index.html)  
-
 RNA-Seq:
 [Gaxaly](https://usegalaxy.org),
 [iDEP](http://bioinformatics.sdstate.edu/idep90/)  
-
 Differental Expression:
 [Gene Pattern](https://www.genepattern.org)  
-
 Enrichment:
 [DAVID](https://david.ncifcrf.gov),
 [GSEA](https://www.gsea-msigdb.org/gsea/index.jsp)  
-
 Sequence Logo:
 [Jaspar](https://jaspar.genereg.net)  
-
 SNP Annotation:
 [SeattleSeq](https://snp.gs.washington.edu/SeattleSeqAnnotation138/)  
-
 Genome Broswer:
 [UCSC Genome Broswer](http://genome.ucsc.edu)
 
@@ -61,20 +55,16 @@ Cancer:
 [COSMIC](https://cancer.sanger.ac.uk/cosmic),
 [cBio](https://www.cbioportal.org),
 [OncoKB](https://www.oncokb.org/#levelType=Tx)  
-
 Biological Pathways and Functions：
 [KEGG](https://www.genome.jp/kegg/),
 [Gene Ontology](http://geneontology.org)  
-
 Protein:
 [UniProt](https://www.uniprot.org),
 [Pram](http://pfam.xfam.org)(protein families),
 [Matrix Science](https://www.matrixscience.com)(proteomics)  
-
 Drugs:
 [PubChem](https://pubchem.ncbi.nlm.nih.gov),
 [DrugBank](https://go.drugbank.com)  
-
 SNP and Diseases:
 [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/),
 [OMIM](https://www.omim.org)
