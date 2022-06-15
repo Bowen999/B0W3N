@@ -36,4 +36,4 @@ design:
   view: compact
   columns: '2'
 ---
-### [Test doc](https://app.gitbook.com/s/nled6b3P5Q33Eo2lrq55/basics/test)
+### [Test doc](https://b0w3n.gitbook.io/design-system/)
