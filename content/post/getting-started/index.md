@@ -36,10 +36,13 @@ image:
 基因组学和代谢组学已经发展了很多年了，也是绝大多数生信学者的研究方向，已经有很多成熟的工具被开发了，研究路线也很明确。与基因组学和转录组学相比，代谢组学还处于“幼稚期”，更需要开发成熟的工具。
 
 ## 几个常用代谢组全功能软件
-[MetaboAnalyst](https://www.metaboanalyst.ca/home.xhtml)是使用人数最多的代谢组分析应用，该应用由McGill的[Dr.Jianguo Xia](https://www.xialab.ca/home.xhtml)等人开发，提供网页UI。  
+[MetaboAnalyst](https://www.metaboanalyst.ca/home.xhtml)是使用人数最多的代谢组分析应用，该应用由McGill的[Dr.Jianguo Xia](https://www.xialab.ca/home.xhtml)等人开发，提供网页UI。
+
 [Metabolyzer](https://sites.google.com/a/georgetown.edu/fornace-lab-informatics/home/metabolyzer)是由NIST的Dr. Tytus Mak开发的全功能LC-MS代谢组分析平台。  
+
 [XCMC](https://xcmsonline.scripps.edu/landing_page.php?pgcontent=mainPage)由Scripps Research的Dr. Gary Siuzdak开发，Dr.Siuzdak还开发了很多其他代谢组工具。
 IP4M是一款由上海交通大学开发的基于质谱的代谢组学数据挖掘平台。  
+
 [Mzmine](http://mzmine.github.io)由捷克科学院的Dr. Tomáš Pluskal(https://pluskal.group.uochb.cz/en)开发，同样是基于LC-MS。
 
 
