@@ -21,6 +21,8 @@ design:
 [Tkinter GUI@莫烦](https://mofanpy.com/tutorials/python-basic/tkinter/why/)  
 
 ### Tools
+Blog:
+[GitBook](https://www.gitbook.com)  
 Navigation:
 [bio.tools](https://bio.tools),
 [生物医学导航](https://wang-lin-boop.github.io/Biodb-Search/index.html)  
